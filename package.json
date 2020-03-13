@@ -13,7 +13,7 @@
     "flow": "flow"
   },
   "dependencies": {
-    "rn-fetch-blob": "git+https://github.com/wulang19910216/rn-fetch-blob.git"
+    "rn-fetch-blob": "git+https://github.com/wulang19910216/rn-fetch-blob-new.git"
   },
   "devDependencies": {
     "flow-bin": "^0.108.0"
